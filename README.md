@@ -1,1 +1,1 @@
-# Editable-resume-builder
+# Editable-resume
